@@ -1,10 +1,10 @@
-# readGmail
-This program allows to automatically log in into Gmail, read the incomming emails and identify those who have the word "DevOps" in the body
+# readmyGmail
+This program allows to automatically log in into Gmail, read the incomming emails and identify those who have the word "DevOps" in the body.
 
 # Getting Started
-Please, follow the instructions below for installing and run CTFR.
+Please, follow the instructions below for downloading and running the program.
 
-# Pre-requisites
+# Requisites
 Make sure you have installed the following tools
 ```
 Python 3.0 or later
