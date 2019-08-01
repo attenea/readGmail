@@ -1,5 +1,5 @@
 # readmyGmail
-This program allows to automatically log in into Gmail, read the incoming emails and identify those who have the word "DevOps" (you can modify this word in the python file) in the body. It will also save those emails in a MySQL database. I'll be using MySQLClient database connector for Python. You can download it here: https://github.com/PyMySQL/mysqlclient-python. I also assume you have downloaded MySQL server.
+This program allows to automatically log into Gmail, read the incoming emails and identify those who have the word "DevOps" (you can modify this word in the python file) in the body. It will also save those emails in a MySQL database. I'll be using MySQLClient database connector for Python. You can download it here: https://github.com/PyMySQL/mysqlclient-python. I also assume you have downloaded MySQL server.
 
 # Getting Started
 Please, follow the instructions below for downloading and running the program.
